@@ -1,0 +1,10 @@
+id = "copy-path-with-code"
+name = "Copy Path with Code"
+version = "0.1.0"
+schema_version = 1
+authors = ["khanhromvn <your-email@example.com>"]
+description = "Copy file path along with its content to clipboard, with folder management capabilities"
+repository = "https://github.com/khanhromvn/copy-path-with-code-zedstore"
+
+[dev]
+enabled = true
